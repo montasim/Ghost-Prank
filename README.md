@@ -27,7 +27,7 @@
 </p>
 
 
-<h3 align="center">This Ghost-Prank program will help you to have fun with your friend. Hope You Will Like The Game and you can also use the code to make your own version of game. If you use this code give credit to <b><a href="https://montasim.github.io">AUTHOR</a></b>.</h3>
+<h3 align="center">This Ghost-Prank program will help you to have fun with your friend. Hope you will like the program. You can also use the code to make your own version of the program. If you use this code give credit to <a href="https://montasim.github.io">AUTHOR</a>.</h3>
 
 
 <br>
