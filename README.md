@@ -67,7 +67,7 @@
 $ pip install pygame
 ```
 
-<p>OR</p>
+<p><b>Or</b></p>
 
 ```sh
 $ pip3 install pygame
