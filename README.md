@@ -65,9 +65,14 @@
 
 ```sh
 $ pip install pygame
-or
+```
+
+<p>OR</p>
+
+```sh
 $ pip3 install pygame
 ```
+
 - Open terminal, CMD or powershell, then Type pip install -r <path to the game>
 
 ```sh
