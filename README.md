@@ -73,12 +73,13 @@ $ pip install pygame
 $ pip3 install pygame
 ```
 
-- Open terminal, CMD or powershell, then Type pip install -r <path to the game>
+- Open terminal, CMD or powershell 
+- Goto downoaded PATH
+- Type pip install -r
 
 ```sh
-$ pip install -r c://Users/Downloads/Tic Tac Toe/requirements.txt
+$ pip install -r requirements.txt
 ```
-</p>
 
 <h3>Important Note</h3>
 
