@@ -69,9 +69,13 @@ $ pip install pygame
 
 <p><b>Or</b></p>
 
+- Type pip3 install pygame
+
 ```sh
 $ pip3 install pygame
 ```
+
+<p><b>Or</b></p>
 
 - Open terminal, CMD or powershell 
 - Goto downoaded PATH
