@@ -32,14 +32,14 @@
 
 <br>
 
-<h1 align="left">Program Stats</h1>
+<h2 align="left">Program Stats</h2>
 <p align="center">
   <img alt="Montasim's Github Stats" src = "https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=Ghost-Prank&show_icons=true&theme=radical&line_height=27&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">
 </p>
 
 <br>
 
-<h1 align="left">Image Used</h1>
+<h2 align="left">Image Used</h2>
 <p align="center">
   <img alt="Ghost image" src = "https://github.com/montasim/Ghost-Prank/blob/master/media/image/scr.jpg">
 
@@ -47,18 +47,18 @@
 <br>
 
 
-<h3>Features</h3>
+<h2>Features</h2>
 
   - Sonds added
   - Image added
 
- <h3>Module</h3>
+ <h2>Module</h2>
  
   - pygame
   - time
 
 
-<h3>How to install the <b>pygame</b> module?</h3>
+<h2>How to install the <b>pygame</b> module?</h2>
 
 - Open Terminal 
 - Type pip install pygame
@@ -85,12 +85,12 @@ $ pip3 install pygame
 $ pip install -r requirements.txt
 ```
 
-<h3>Important Note</h3>
+<h2>Important Note</h2>
 
 - Dont delete any file it may <b>CRASH</b> the program!
 
 
-<h3>How to play?</h3>
+<h2>How to play?</h2>
 
 - Start the Ghost-Prank program using Ghost-Prank.exe file!
 
@@ -100,4 +100,4 @@ $ pip install -r requirements.txt
  
  [//]: # "show some love paragraph"
 
-<h3 align="center">𝐒𝐡𝐨𝐰 𝐬𝐨𝐦𝐞 &nbsp;❤️&nbsp; 𝐛𝐲 𝐬𝐭𝐚𝐫𝐫𝐢𝐧𝐠 𝐨𝐟 𝐭𝐡𝐞 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐞!</h3>
+<h2 align="center">𝐒𝐡𝐨𝐰 𝐬𝐨𝐦𝐞 &nbsp;❤️&nbsp; 𝐛𝐲 𝐬𝐭𝐚𝐫𝐫𝐢𝐧𝐠 𝐨𝐟 𝐭𝐡𝐞 𝐫𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐞!</h2>
