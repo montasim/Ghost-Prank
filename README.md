@@ -27,19 +27,19 @@
 </p>
 
 
-<h3 align="center">This Ghost-Prank program will help you to have fun with your friend. Hope you will like the program. You can also use the code to make your own version of the program. If you use this code give credit to <a href="https://montasim.github.io">AUTHOR</a>.</h3>
+<h3 align="left">This Ghost-Prank program will help you to have fun with your friend. Hope you will like the program. You can also use the code to make your own version of the program. If you use this code give credit to <a href="https://montasim.github.io">AUTHOR</a>.</h3>
 
 
 <br>
 
-<h1 align="center">Program Stats</h1>
+<h1 align="left">Program Stats</h1>
 <p align="center">
   <img alt="Montasim's Github Stats" src = "https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=Ghost-Prank&show_icons=true&theme=radical&line_height=27&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">
 </p>
 
 <br>
 
-<h1 align="center">Image Used</h1>
+<h1 align="left">Image Used</h1>
 <p align="center">
   <img alt="Ghost image" src = "https://github.com/montasim/Ghost-Prank/blob/master/media/image/scr.jpg">
 
