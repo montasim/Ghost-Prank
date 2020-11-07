@@ -32,14 +32,14 @@
 
 <br>
 
-<h2 align="left">Program Stats : </h2>
+<h2 align="left">Program Stats</h2>
 <p align="center">
   <img alt="Montasim's Github Stats" src = "https://github-readme-stats.vercel.app/api/pin/?username=montasim&repo=Ghost-Prank&show_icons=true&theme=radical&line_height=27&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">
 </p>
 
 <br>
 
-<h2 align="left">Image Used : </h2>
+<h2 align="left">Image Used</h2>
 <p align="center">
   <img alt="Ghost image" src = "https://github.com/montasim/Ghost-Prank/blob/master/media/image/scr.jpg">
 
@@ -47,12 +47,12 @@
 <br>
 
 
-<h2>Features : </h2>
+<h2>Features</h2>
 
   - Sonds added
   - Image added
 
- <h2>Module : </h2>
+ <h2>Module</h2>
  
   - pygame
   - time
@@ -85,7 +85,7 @@ $ pip3 install pygame
 $ pip install -r requirements.txt
 ```
 
-<h2>Important Note : </h2>
+<h2>Important Note</h2>
 
 - Dont delete any file it may <b>CRASH</b> the program!
 
